@@ -1,0 +1,6 @@
+{
+  "name": "AegisRelief - Global Disaster Management & Resource Optimization Matrix",
+  "description": "Interactive real-time 3D disaster management command center featuring global incident surveillance, road network blockage modeling, and a hybrid LP, Greedy Heuristic, and Genetic Algorithm resource dispatch solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
